@@ -30,7 +30,6 @@ def download_and_tag_youtube(urls, output_dir="downloads"):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # First pass: fetch metadata
     ydl_opts_meta = {
         'format': 'bestaudio/best',
         'outtmpl': os.path.join(output_dir, '%(title)s.%(ext)s'),
@@ -38,7 +37,6 @@ def download_and_tag_youtube(urls, output_dir="downloads"):
         'simulate': True,
     }
 
-    # Second pass: download MP3
     ydl_opts_audio = {
         'format': 'bestaudio/best',
         'outtmpl': os.path.join(output_dir, '%(title)s.%(ext)s'),
@@ -74,10 +72,10 @@ def download_and_tag_youtube(urls, output_dir="downloads"):
         except Exception as e:
             print(f"fucked up with {url}: {e}")
 
-# Example usage
+
 if __name__ == "__main__":
     youtube_urls = [
         "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        # Add more links here
+        # something like that
     ]
     download_and_tag_youtube(youtube_urls)
