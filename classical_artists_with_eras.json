@@ -1,0 +1,545 @@
+{
+  "Guillaume Dufay": {
+    "epoch / genre": "Medieval"
+  },
+  "Léonin": {
+    "epoch / genre": "Medieval"
+  },
+  "Guillaume de Machaut": {
+    "epoch / genre": "Medieval"
+  },
+  "Pérotin": {
+    "epoch / genre": "Medieval"
+  },
+  "William Byrd": {
+    "epoch / genre": "Renaissance"
+  },
+  "Josquin Des Prez": {
+    "epoch / genre": "Renaissance"
+  },
+  "John Dowland": {
+    "epoch / genre": "Renaissance"
+  },
+  "Carlo Gesualdo": {
+    "epoch / genre": "Renaissance"
+  },
+  "Orlando Gibbons": {
+    "epoch / genre": "Renaissance"
+  },
+  "Clément Janequin": {
+    "epoch / genre": "Renaissance"
+  },
+  "Orlande de Lassus": {
+    "epoch / genre": "Renaissance"
+  },
+  "Claudio Monteverdi": {
+    "epoch / genre": "Renaissance"
+  },
+  "Jacob Obrecht": {
+    "epoch / genre": "Renaissance"
+  },
+  "Johannes Ockeghem": {
+    "epoch / genre": "Renaissance"
+  },
+  "Giovanni Pierluigi da Palestrina": {
+    "epoch / genre": "Renaissance"
+  },
+  "Michael Praetorius": {
+    "epoch / genre": "Renaissance"
+  },
+  "Heinrich Schütz": {
+    "epoch / genre": "Renaissance"
+  },
+  "Jan Pieterszoon Sweelinck": {
+    "epoch / genre": "Renaissance"
+  },
+  "Thomas Tallis": {
+    "epoch / genre": "Renaissance"
+  },
+  "John Taverner": {
+    "epoch / genre": "Renaissance"
+  },
+  "Tomás Luis de Victoria": {
+    "epoch / genre": "Renaissance"
+  },
+  "Tomaso Albinoni": {
+    "epoch / genre": "Baroque"
+  },
+  "Johann Sebastian Bach": {
+    "epoch / genre": "Baroque"
+  },
+  "Heinrich Franz von Biber": {
+    "epoch / genre": "Baroque"
+  },
+  "Dietrich Buxtehude": {
+    "epoch / genre": "Baroque"
+  },
+  "Marc-Antoine Charpentier": {
+    "epoch / genre": "Baroque"
+  },
+  "Arcangelo Corelli": {
+    "epoch / genre": "Baroque"
+  },
+  "François Couperin": {
+    "epoch / genre": "Baroque"
+  },
+  "Girolamo Frescobaldi": {
+    "epoch / genre": "Baroque"
+  },
+  "George Frideric Handel": {
+    "epoch / genre": "Baroque"
+  },
+  "Jean-Baptiste Lully": {
+    "epoch / genre": "Baroque"
+  },
+  "Marin Marais": {
+    "epoch / genre": "Baroque"
+  },
+  "Benedetto Marcello": {
+    "epoch / genre": "Baroque"
+  },
+  "Alessandro Marcello": {
+    "epoch / genre": "Baroque"
+  },
+  "Johann Pachelbel": {
+    "epoch / genre": "Baroque"
+  },
+  "Giovanni Battista Pergolesi": {
+    "epoch / genre": "Baroque"
+  },
+  "Henry Purcell": {
+    "epoch / genre": "Baroque"
+  },
+  "Jean-Philippe Rameau": {
+    "epoch / genre": "Baroque"
+  },
+  "Domenico Scarlatti": {
+    "epoch / genre": "Baroque"
+  },
+  "Alessandro Scarlatti": {
+    "epoch / genre": "Baroque"
+  },
+  "Giuseppe Tartini": {
+    "epoch / genre": "Baroque"
+  },
+  "Georg Philipp Telemann": {
+    "epoch / genre": "Baroque"
+  },
+  "Antonio Vivaldi": {
+    "epoch / genre": "Baroque"
+  },
+  "Carl Philipp Emanuel Bach": {
+    "epoch / genre": "Classical"
+  },
+  "Johann Christian Bach": {
+    "epoch / genre": "Classical"
+  },
+  "Luigi Boccherini": {
+    "epoch / genre": "Classical"
+  },
+  "Karl Ditters von Dittersdorf": {
+    "epoch / genre": "Classical"
+  },
+  "Christoph Willibald von Gluck": {
+    "epoch / genre": "Classical"
+  },
+  "Franz Joseph Haydn": {
+    "epoch / genre": "Classical"
+  },
+  "Wolfgang Amadeus Mozart": {
+    "epoch / genre": "Classical"
+  },
+  "Antonio Salieri": {
+    "epoch / genre": "Classical"
+  },
+  "Carl Stamitz": {
+    "epoch / genre": "Classical"
+  },
+  "Ludwig van Beethoven": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Vincenzo Bellini": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Franz Berwald": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Luigi Cherubini": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Gaetano Donizetti": {
+    "epoch / genre": "Early Romantic"
+  },
+  "John Field": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Johann Nepomuk Hummel": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Niccolò Paganini": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Gioachino Rossini": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Franz Schubert": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Fernando Sor": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Louis Spohr": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Carl Maria von Weber": {
+    "epoch / genre": "Early Romantic"
+  },
+  "Mily Balakirev": {
+    "epoch / genre": "Romantic"
+  },
+  "Hector Berlioz": {
+    "epoch / genre": "Romantic"
+  },
+  "Georges Bizet": {
+    "epoch / genre": "Romantic"
+  },
+  "Alexander Borodin": {
+    "epoch / genre": "Romantic"
+  },
+  "Johannes Brahms": {
+    "epoch / genre": "Romantic"
+  },
+  "Max Bruch": {
+    "epoch / genre": "Romantic"
+  },
+  "Anton Bruckner": {
+    "epoch / genre": "Romantic"
+  },
+  "Emmanuel Chabrier": {
+    "epoch / genre": "Romantic"
+  },
+  "Ernest Chausson": {
+    "epoch / genre": "Romantic"
+  },
+  "Frédéric Chopin": {
+    "epoch / genre": "Romantic"
+  },
+  "César Cui": {
+    "epoch / genre": "Romantic"
+  },
+  "Vincent d'Indy": {
+    "epoch / genre": "Romantic"
+  },
+  "Léo Delibes": {
+    "epoch / genre": "Romantic"
+  },
+  "Antonín Dvořák": {
+    "epoch / genre": "Romantic"
+  },
+  "César Franck": {
+    "epoch / genre": "Romantic"
+  },
+  "Mikhail Ivanovich Glinka": {
+    "epoch / genre": "Romantic"
+  },
+  "Karl Goldmark": {
+    "epoch / genre": "Romantic"
+  },
+  "Antonio Carlos Gomes": {
+    "epoch / genre": "Romantic"
+  },
+  "Charles Gounod": {
+    "epoch / genre": "Romantic"
+  },
+  "Edvard Grieg": {
+    "epoch / genre": "Romantic"
+  },
+  "Edouard Lalo": {
+    "epoch / genre": "Romantic"
+  },
+  "Franz Liszt": {
+    "epoch / genre": "Romantic"
+  },
+  "Jules Massenet": {
+    "epoch / genre": "Romantic"
+  },
+  "Felix Mendelssohn": {
+    "epoch / genre": "Romantic"
+  },
+  "Modest Mussorgsky": {
+    "epoch / genre": "Romantic"
+  },
+  "Jacques Offenbach": {
+    "epoch / genre": "Romantic"
+  },
+  "Nikolai Rimsky-Korsakov": {
+    "epoch / genre": "Romantic"
+  },
+  "Camille Saint-Saëns": {
+    "epoch / genre": "Romantic"
+  },
+  "Robert Schumann": {
+    "epoch / genre": "Romantic"
+  },
+  "Bedrich Smetana": {
+    "epoch / genre": "Romantic"
+  },
+  "Johann Strauss Jr": {
+    "epoch / genre": "Romantic"
+  },
+  "Pyotr Ilyich Tchaikovsky": {
+    "epoch / genre": "Romantic"
+  },
+  "Giuseppe Verdi": {
+    "epoch / genre": "Romantic"
+  },
+  "Richard Wagner": {
+    "epoch / genre": "Romantic"
+  },
+  "Charles-Marie Widor": {
+    "epoch / genre": "Romantic"
+  },
+  "Hugo Wolf": {
+    "epoch / genre": "Romantic"
+  },
+  "George Antheil": {
+    "epoch / genre": "20th Century"
+  },
+  "Samuel Barber": {
+    "epoch / genre": "20th Century"
+  },
+  "Béla Bartók": {
+    "epoch / genre": "20th Century"
+  },
+  "Arnold Bax": {
+    "epoch / genre": "20th Century"
+  },
+  "Alban Berg": {
+    "epoch / genre": "20th Century"
+  },
+  "Leonard Bernstein": {
+    "epoch / genre": "20th Century"
+  },
+  "Ernest Bloch": {
+    "epoch / genre": "20th Century"
+  },
+  "Joly Braga Santos": {
+    "epoch / genre": "20th Century"
+  },
+  "Benjamin Britten": {
+    "epoch / genre": "20th Century"
+  },
+  "Camargo Guarnieri": {
+    "epoch / genre": "20th Century"
+  },
+  "Carlos Chávez": {
+    "epoch / genre": "20th Century"
+  },
+  "Aaron Copland": {
+    "epoch / genre": "20th Century"
+  },
+  "Maurice Duruflé": {
+    "epoch / genre": "20th Century"
+  },
+  "Manuel de Falla": {
+    "epoch / genre": "20th Century"
+  },
+  "George Gershwin": {
+    "epoch / genre": "20th Century"
+  },
+  "Alberto Ginastera": {
+    "epoch / genre": "20th Century"
+  },
+  "Percy Grainger": {
+    "epoch / genre": "20th Century"
+  },
+  "Howard Hanson": {
+    "epoch / genre": "20th Century"
+  },
+  "Roy Harris": {
+    "epoch / genre": "20th Century"
+  },
+  "Paul Hindemith": {
+    "epoch / genre": "20th Century"
+  },
+  "Vagn Holmboe": {
+    "epoch / genre": "20th Century"
+  },
+  "Arthur Honegger": {
+    "epoch / genre": "20th Century"
+  },
+  "Jacques Ibert": {
+    "epoch / genre": "20th Century"
+  },
+  "Charles Ives": {
+    "epoch / genre": "20th Century"
+  },
+  "Dmitry Kabalevsky": {
+    "epoch / genre": "20th Century"
+  },
+  "Aram Khachaturian": {
+    "epoch / genre": "20th Century"
+  },
+  "Zoltán Kodály": {
+    "epoch / genre": "20th Century"
+  },
+  "Erich Wolfgang Korngold": {
+    "epoch / genre": "20th Century"
+  },
+  "Fernando Lopes-Graça": {
+    "epoch / genre": "20th Century"
+  },
+  "Bohuslav Martinů": {
+    "epoch / genre": "20th Century"
+  },
+  "Olivier Messiaen": {
+    "epoch / genre": "20th Century"
+  },
+  "Francisco Mignone": {
+    "epoch / genre": "20th Century"
+  },
+  "Darius Milhaud": {
+    "epoch / genre": "20th Century"
+  },
+  "Ernest Moeran": {
+    "epoch / genre": "20th Century"
+  },
+  "Carl Orff": {
+    "epoch / genre": "20th Century"
+  },
+  "Astor Piazzolla": {
+    "epoch / genre": "20th Century"
+  },
+  "Francis Poulenc": {
+    "epoch / genre": "20th Century"
+  },
+  "Sergei Prokofiev": {
+    "epoch / genre": "20th Century"
+  },
+  "Joaquín Rodrigo": {
+    "epoch / genre": "20th Century"
+  },
+  "Arnold Schoenberg": {
+    "epoch / genre": "20th Century"
+  },
+  "William Schuman": {
+    "epoch / genre": "20th Century"
+  },
+  "Dmitri Shostakovich": {
+    "epoch / genre": "20th Century"
+  },
+  "Igor Stravinsky": {
+    "epoch / genre": "20th Century"
+  },
+  "Michael Tippett": {
+    "epoch / genre": "20th Century"
+  },
+  "Edgard Varèse": {
+    "epoch / genre": "20th Century"
+  },
+  "Heitor Villa-Lobos": {
+    "epoch / genre": "20th Century"
+  },
+  "William Walton": {
+    "epoch / genre": "20th Century"
+  },
+  "Anton Webern": {
+    "epoch / genre": "20th Century"
+  },
+  "Kurt Weill": {
+    "epoch / genre": "20th Century"
+  },
+  "Malcolm Arnold": {
+    "epoch / genre": "Post-War"
+  },
+  "Milton Babbitt": {
+    "epoch / genre": "Post-War"
+  },
+  "Luciano Berio": {
+    "epoch / genre": "Post-War"
+  },
+  "Harrison Birtwistle": {
+    "epoch / genre": "Post-War"
+  },
+  "Pierre Boulez": {
+    "epoch / genre": "Post-War"
+  },
+  "John Cage": {
+    "epoch / genre": "Post-War"
+  },
+  "Elliott Carter": {
+    "epoch / genre": "Post-War"
+  },
+  "George Crumb": {
+    "epoch / genre": "Post-War"
+  },
+  "Henri Dutilleux": {
+    "epoch / genre": "Post-War"
+  },
+  "Philip Glass": {
+    "epoch / genre": "Post-War"
+  },
+  "Henryk Górecki": {
+    "epoch / genre": "Post-War"
+  },
+  "Morton Gould": {
+    "epoch / genre": "Post-War"
+  },
+  "Sofia Gubaidulina": {
+    "epoch / genre": "Post-War"
+  },
+  "Hans Werner Henze": {
+    "epoch / genre": "Post-War"
+  },
+  "György Ligeti": {
+    "epoch / genre": "Post-War"
+  },
+  "Witold Lutoslawski": {
+    "epoch / genre": "Post-War"
+  },
+  "Luigi Nono": {
+    "epoch / genre": "Post-War"
+  },
+  "Arvo Pärt": {
+    "epoch / genre": "Post-War"
+  },
+  "Krzysztof Penderecki": {
+    "epoch / genre": "Post-War"
+  },
+  "Einojuhani Rautavaara": {
+    "epoch / genre": "Post-War"
+  },
+  "Steve Reich": {
+    "epoch / genre": "Post-War"
+  },
+  "Wolfgang Rihm": {
+    "epoch / genre": "Post-War"
+  },
+  "Ned Rorem": {
+    "epoch / genre": "Post-War"
+  },
+  "Alfred Schnittke": {
+    "epoch / genre": "Post-War"
+  },
+  "Karlheinz Stockhausen": {
+    "epoch / genre": "Post-War"
+  },
+  "Toru Takemitsu": {
+    "epoch / genre": "Post-War"
+  },
+  "Iannis Xenakis": {
+    "epoch / genre": "Post-War"
+  },
+  "John Adams": {
+    "epoch / genre": "21st Century"
+  },
+  "Thomas Adès": {
+    "epoch / genre": "21st Century"
+  },
+  "John Corigliano": {
+    "epoch / genre": "21st Century"
+  },
+  "Michael Daugherty": {
+    "epoch / genre": "21st Century"
+  }
+}
